@@ -4,10 +4,10 @@
 /* No comment provided by engineer. */
 "Are you sure you want to reset all settings to their default values?" = "Bạn có chắc chắn muốn đặt lại tất cả cài đặt về giá trị mặc định không?";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Auto Rotate" = "Tự động Xoay";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Automatically rotates the image to match the path direction." = "Tự động xoay hình ảnh để phù hợp với hướng di chuyển.";
 
 /* No comment provided by engineer. */
@@ -16,16 +16,22 @@
 /* No comment provided by engineer. */
 "Border Width" = "Chiều rộng Viền";
 
+/* TODO */
+"Change Emoji" = "Change Emoji";
+
 /* No comment provided by engineer. */
 "Change Image" = "Thay đổi hình ảnh";
 
 /* TODO */
+"Copyright © 2024-2025 OwnGoal Studio." = "Copyright © 2024-2025 OwnGoal Studio.";
+
+/* No comment provided by engineer. */
 "Corner Radius" = "Bán Kính Góc";
 
 /* No comment provided by engineer. */
-"Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)\n\nTranslator:\nNguyễn Tuấn (Vietnamese)";
+"Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)\nIvan Izyumkin: MCEmojiPicker (MIT License)" = "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)\nIvan Izyumkin: MCEmojiPicker (MIT License)\n\nTranslator:\nNguyễn Tuấn (Vietnamese)";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Custom Image" = "Tuỳ Chỉnh Hình Ảnh";
 
 /* No comment provided by engineer. */
@@ -67,8 +73,11 @@
 /* No comment provided by engineer. */
 "Please check your purchase of “%@” in Sileo." = "Vui lòng kiểm tra giao dịch mua “%@” của bạn trong Sileo.";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Quick Path Effect" = "Hiệu ứng di chuyển nhanh";
+
+/* TODO */
+"Remove Emoji" = "Remove Emoji";
 
 /* No comment provided by engineer. */
 "Remove Image" = "Xóa hình ảnh";
@@ -78,6 +87,9 @@
 
 /* No comment provided by engineer. */
 "Reset to Default" = "Đặt lại về mặc định";
+
+/* TODO */
+"Select Emoji" = "Select Emoji";
 
 /* No comment provided by engineer. */
 "Select Image" = "Chọn ảnh";

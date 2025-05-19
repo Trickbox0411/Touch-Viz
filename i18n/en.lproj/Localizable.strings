@@ -17,13 +17,19 @@
 "Border Width" = "Border Width";
 
 /* No comment provided by engineer. */
+"Change Emoji" = "Change Emoji";
+
+/* No comment provided by engineer. */
 "Change Image" = "Change Image";
+
+/* No comment provided by engineer. */
+"Copyright © 2024-2025 OwnGoal Studio." = "Copyright © 2024-2025 OwnGoal Studio.";
 
 /* No comment provided by engineer. */
 "Corner Radius" = "Corner Radius";
 
 /* No comment provided by engineer. */
-"Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)";
+"Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)\nIvan Izyumkin: MCEmojiPicker (MIT License)" = "Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)\nIvan Izyumkin: MCEmojiPicker (MIT License)";
 
 /* No comment provided by engineer. */
 "Custom Image" = "Custom Image";
@@ -71,6 +77,9 @@
 "Quick Path Effect" = "Quick Path Effect";
 
 /* No comment provided by engineer. */
+"Remove Emoji" = "Remove Emoji";
+
+/* No comment provided by engineer. */
 "Remove Image" = "Remove Image";
 
 /* No comment provided by engineer. */
@@ -78,6 +87,9 @@
 
 /* No comment provided by engineer. */
 "Reset to Default" = "Reset to Default";
+
+/* No comment provided by engineer. */
+"Select Emoji" = "Select Emoji";
 
 /* No comment provided by engineer. */
 "Select Image" = "Select Image";

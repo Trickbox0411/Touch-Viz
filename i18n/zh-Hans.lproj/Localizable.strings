@@ -17,13 +17,19 @@
 "Border Width" = "边框宽度";
 
 /* No comment provided by engineer. */
-"Change Image" = "更改图片";
+"Change Emoji" = "更换 Emoji";
+
+/* No comment provided by engineer. */
+"Change Image" = "更换图片";
+
+/* No comment provided by engineer. */
+"Copyright © 2024-2025 OwnGoal Studio." = "版权所有 © 2024-2025 OwnGoal Studio.";
 
 /* No comment provided by engineer. */
 "Corner Radius" = "圆角半径";
 
 /* No comment provided by engineer. */
-"Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)" = "致谢：\n@LeoNatan: LNTouchVisualizer (MIT 许可证)";
+"Credits:\n@LeoNatan: LNTouchVisualizer (MIT License)\nIvan Izyumkin: MCEmojiPicker (MIT License)" = "致谢：\n@LeoNatan: LNTouchVisualizer (MIT 许可证)\nIvan Izyumkin: MCEmojiPicker (MIT 许可证)";
 
 /* No comment provided by engineer. */
 "Custom Image" = "自定义图片";
@@ -62,13 +68,16 @@
 "Opacity" = "不透明度";
 
 /* No comment provided by engineer. */
-"Please check your network connection and try again later by tapping the screen." = "请检查您的网络连接，然后通过点击屏幕重试。";
+"Please check your network connection and try again later by tapping the screen." = "请检查你的网络连接，然后轻按屏幕重试。";
 
 /* No comment provided by engineer. */
-"Please check your purchase of “%@” in Sileo." = "请检查您在 Sileo 中购买的 “%@”。";
+"Please check your purchase of “%@” in Sileo." = "请检查你在 Sileo 中购买的 “%@”。";
 
 /* No comment provided by engineer. */
 "Quick Path Effect" = "笔刷效果";
+
+/* No comment provided by engineer. */
+"Remove Emoji" = "移除 Emoji";
 
 /* No comment provided by engineer. */
 "Remove Image" = "移除图片";
@@ -78,6 +87,9 @@
 
 /* No comment provided by engineer. */
 "Reset to Default" = "重置设置";
+
+/* No comment provided by engineer. */
+"Select Emoji" = "选择 Emoji";
 
 /* No comment provided by engineer. */
 "Select Image" = "选择图片";
